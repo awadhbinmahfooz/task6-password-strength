@@ -55,7 +55,6 @@ Phishing
 Rainbow Table Attack
 Authentication & Best Practices
 
-
 Save this as README.md.
 
 Add screenshots of password tests from mystrongpassword.com in your repo.
