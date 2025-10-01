@@ -47,7 +47,7 @@ Store credentials safely in a password manager.
 6. How do password managers help? They generate and securely store strong passwords.
 7. What are passphrases? Long sequences of words/numbers used as secure passwords.
 8. What are common mistakes in password creation? Using personal info, short/reused passwords, common words.
-📌 Key Concepts
+## Key Concepts
 Password Strength
 Brute Force Attack
 Dictionary Attack
